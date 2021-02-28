@@ -1,1 +1,1 @@
-# hello this is for checking the knowlege learned tdy abt git.
+# This is a sample trial for checking the knowlege learned tdy abt git.
